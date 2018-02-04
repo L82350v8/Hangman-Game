@@ -1,0 +1,46 @@
+
+html,
+body,
+#intro {
+    height: 100%;
+}
+
+body {
+    text-align: center; 
+}
+
+#intro {
+   background: url("http://www.autosphere.ca/collisionmanagement/files/2014/09/1_Adirondack_Nationals_Car_show_2014_CRD_Isabelle_Courteau36.jpg") 
+      no-repeat center center fixed;
+   opacity: 0.7;
+   background-size: cover;
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+}
+
+div.game-word-display h3 {
+    font-family: Georgia    ;
+    font-size: 50px;
+    font-weight: bold;       
+}
+
+    h4 {
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: 'Faster One', cursive;
+    color: rgba(000,000,000,1.0);    
+}
+
+h2 {
+    font-size: 50px;    
+    font-family: 'Gravitas One', cursive;
+}
+
+h3 {
+    font-family: 'Patua One', cursive;
+    color: white;
+}
