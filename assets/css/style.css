@@ -9,10 +9,42 @@ body {
     text-align: center; 
 }
 
+h1 {
+    font-size: 100px;
+    font-family: 'Faster One', cursive;
+    color: rgba(000,000,000,1.0); 
+    text-shadow: 1px 1px 2px black, 0 0 25px #2a7189, 0 0 5px darkblue;   
+}
+
+
+h2 {
+    font-size: 50px;    
+    font-family: 'Gravitas One', cursive;
+    opacity: 1.0;
+    text-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px darkblue;   
+}
+
+h3 {
+    font-family: 'Patua One', cursive;
+    color: white;
+    opacity: 1.0;
+    text-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px darkblue;   
+}
+
+h4 {
+    color: white;
+    opacity: 1.0;
+    text-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px darkblue;   
+}
+
+#for {
+    color: white;
+}
+
 #intro {
-   background: url("http://www.autosphere.ca/collisionmanagement/files/2014/09/1_Adirondack_Nationals_Car_show_2014_CRD_Isabelle_Courteau36.jpg") 
+   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("http://www.autosphere.ca/collisionmanagement/files/2014/09/1_Adirondack_Nationals_Car_show_2014_CRD_Isabelle_Courteau36.jpg") 
       no-repeat center center fixed;
-   opacity: 0.7;
+   opacity: 0.85;
    background-size: cover;
    -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -22,25 +54,10 @@ body {
 div.game-word-display h3 {
     font-family: Georgia    ;
     font-size: 50px;
-    font-weight: bold;       
+    font-weight: bold;
+    opacity: 1.0; 
+    text-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px darkblue;         
 }
 
-    h4 {
-    color: white;
-}
 
-h1 {
-    font-size: 100px;
-    font-family: 'Faster One', cursive;
-    color: rgba(000,000,000,1.0);    
-}
 
-h2 {
-    font-size: 50px;    
-    font-family: 'Gravitas One', cursive;
-}
-
-h3 {
-    font-family: 'Patua One', cursive;
-    color: white;
-}
