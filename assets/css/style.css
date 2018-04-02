@@ -22,7 +22,7 @@ h2 {
     font-family: 'Gravitas One', cursive;
     color: white;
     opacity: 1.0;
-    text-shadow: 1px 1px 2px black, 0 0 25px lightblue, 0 0 5px darkblue;   
+    text-shadow: 1px 1px 2px black, 0 0 25px #2a7189, 0 0 5px darkblue;   
 }
 
 h3 {
